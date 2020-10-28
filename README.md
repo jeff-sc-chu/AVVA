@@ -48,7 +48,9 @@ There are many ways to filter this output. One may consider filtering SVs near a
         -h [Bool]       Help. Show this and exits.
 
 #### Preparing GapInfo file
+
 GapInfo file is a tab delimited two column file describing where the gaps are in the reference genome. The format is as follows:
+
 Column 1. Chromosome:Start-End
 
 Column 2. Gap_size
